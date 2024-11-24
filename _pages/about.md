@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-👨‍💻 I am a pre-final year undergraduate student at Indian Institute of Technology, Bombay (IIT-B). 
+👨‍💻 I am an undergraduate student at Indian Institute of Technology, Bombay (IIT-B). <img title="a title" alt="Alt text" src="aanshsamyani.github.io\images\image-alignment-300x200.jpg">
+
 
 🔬 I am highly interested in the field of *Mechanistic Interpretability* of Large Language Models (LLMs) and am currently exploring methodologies to understand their internal decision-making processes and underlying structures. 
 
