@@ -8,7 +8,14 @@ redirect_from:
 ---
 
 
-I am a pre-final year undergraduate student at Indian Institute of Technology, Bombay (IIT-B).
+👨‍💻 I am a pre-final year undergraduate student at Indian Institute of Technology, Bombay (IIT-B). 
+
+🔬 I am highly interested in the field of *Mechanistic Interpretability* of Large Language Models (LLMs) and am currently exploring methodologies to understand their internal decision-making processes and underlying structures. 
+
+📚 My prior research experiences span across diverse areas, including *Multimodal Medical Image Segmentation*, where I worked on developing techniques for precise segmentation in medical imaging using multiple modalities, and *Multi-Agent LLM Architectures*, focusing on designing collaborative frameworks for improving reasoning of LLMs.
+
+
+
 
 <!-- A data-driven personal website
 ======
