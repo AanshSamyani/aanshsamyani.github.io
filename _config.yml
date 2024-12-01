@@ -312,6 +312,10 @@ whitelist:
   - jekyll-sitemap
   - jemoji
 
+## Remove this
+mathjax: true
+scripts:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Archives
 #  Type
