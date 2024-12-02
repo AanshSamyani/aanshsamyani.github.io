@@ -201,6 +201,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
+  gfm_quirks: [paragraph_end]
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -303,7 +304,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-katex
 
 # Mimic GitHub Pages with --safe
 whitelist:
