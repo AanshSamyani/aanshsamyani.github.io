@@ -200,8 +200,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: Kramdown
-  gfm_quirks: [paragraph_end]
+  input: GFM
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
