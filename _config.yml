@@ -200,7 +200,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: Kramdown
   gfm_quirks: [paragraph_end]
   hard_wrap: false
   auto_ids: true
